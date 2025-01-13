@@ -1,4 +1,4 @@
-# Elijah 🤖 focused on Ecommerce with Instagram Integration
+# Elijah 🤖 (Eliza Fork) AI Agents for Ecommerce
 
 <div align="center">
   <img src="./docs/static/img/elijah_banner.jpg" alt="Eliza Banner" width="100%" />
