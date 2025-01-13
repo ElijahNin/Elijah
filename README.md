@@ -1,12 +1,12 @@
-# Eliza 🤖
+# Elijah 🤖 focused on Ecommerce with Instagram Integration
 
 <div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+  <img src="./docs/static/img/elijah_banner.jpg" alt="Eliza Banner" width="100%" />
 </div>
 
 <div align="center">
 
-📖 [Documentation](https://elizaos.github.io/eliza/) | 🎯 [Examples](https://github.com/thejoven/awesome-eliza)
+📖 [Documentation](https://elizaos.github.io/eliza/)
 
 </div>
 
@@ -22,7 +22,9 @@
 
 ## ✨ Features
 
-- 🛠️ Full-featured Discord, Twitter and Telegram connectors
+- Ethan is meant to manage your whole ecommerce suite, from running your instagram via generated images to your next email campaign.
+- With integration with Shopify he can set up scheduled promos and use analytics from your store to promote your best sellers on Instagram and Twitter.
+- 🛠️ Instagram, Shopify Integration (WIP) Full-featured Discord, Twitter and Telegram connectors
 - 🔗 Support for every model (Llama, Grok, OpenAI, Anthropic, etc.)
 - 👥 Multi-agent and room support
 - 📚 Easily ingest and interact with your documents
@@ -37,11 +39,13 @@
 
 ## 🎯 Use Cases
 
-- 🤖 Chatbots
+- 🤖 Chatbots for customer service
 - 🕵️ Autonomous Agents
-- 📈 Business Process Handling
-- 🎮 Video Game NPCs
-- 🧠 Trading
+- 🤖 Shopify Integration
+- 📨 Email Campaigns
+- 💬 SMS Campaigns (WIP)
+- 🧠 Automated Promotions (WIP)
+- 🤖 Dropship (WIP) add products etc.
 
 ## 🚀 Quick Start
 
